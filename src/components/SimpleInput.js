@@ -44,9 +44,7 @@ const SimpleInput = (props) => {
       return;
     }
 
-    if (!enteredEmailIsValid){
-      return;
-    }
+    
 
     console.log(enteredName)
     
